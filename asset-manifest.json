@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/happy-cake/static/css/main.d4548cb7.css",
-    "main.js": "/happy-cake/static/js/main.bb4b5bb2.js",
+    "main.js": "/happy-cake/static/js/main.2bb030af.js",
     "index.html": "/happy-cake/index.html",
     "main.d4548cb7.css.map": "/happy-cake/static/css/main.d4548cb7.css.map",
-    "main.bb4b5bb2.js.map": "/happy-cake/static/js/main.bb4b5bb2.js.map"
+    "main.2bb030af.js.map": "/happy-cake/static/js/main.2bb030af.js.map"
   },
   "entrypoints": [
     "static/css/main.d4548cb7.css",
-    "static/js/main.bb4b5bb2.js"
+    "static/js/main.2bb030af.js"
   ]
 }
