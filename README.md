@@ -1,7 +1,5 @@
 # Bienvenido a la pagina de Pasteles más genial de Internet!:)
     
-    #HappyCake
-    
 ## En esta página aprenderemos a como utilizar de manera correcta React Router!:)
 
 React Router es una librería de enrutamiento para aplicaciones de React que permite la navegación y la renderización de componentes React según la URL actual del navegador. En otras palabras, React Router te permite construir una aplicación de una sola página que parece tener múltiples páginas.
