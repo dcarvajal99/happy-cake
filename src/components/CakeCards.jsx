@@ -58,7 +58,7 @@ function CakeCards() {
     {cakes.map((cake) => (
       <div className="" key={cake.id}>
         <Card style={{ width: '18rem' }}>
-          <Card.Img variant="top" src={process.env.PUBLIC_URL + `/img/${cake.image}`}
+          <Card.Img variant="top" src={process.env.PUBLIC_URL + `/happy-cake/img/${cake.image}`}
           style={{ height: "300px", width: "100%" }} />
           <Card.Body>
             <Card.Title>{cake.name}</Card.Title>
